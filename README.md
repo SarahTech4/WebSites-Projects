@@ -16,15 +16,20 @@ De que coisas você precisa para instalar o software e como instalá-lo?
 ```
 Configurando um ambiente de desenvolvimento web com JavaScript:
 
-• O que você precisa: Para começar a programar em JavaScript, você pode usar a IDE Visual Studio Code (VS Code), que é leve, poderosa e gratuita. Você também precisará instalar o Node.js em seu sistema.
+• O que você precisa: Para começar a programar em JavaScript, você pode usar a IDE Visual Studio Code 
+(VSCODE), que é leve, poderosa e gratuita. Você também precisará instalar o Node.js em seu sistema.
 
-• Como instalá-lo: Primeiro, baixe e instale o Node.js em seu sistema a partir do site oficial (nodejs.org). Durante a instalação, também será instalado o npm (Node Package Manager), que é um gerenciador de pacotes para JavaScript. 
+• Como instalá-lo: Primeiro, baixe e instale o Node.js em seu sistema a partir do site oficial (nodejs.org). 
+Durante a instalação, também será instalado o npm (Node Package Manager), que é um gerenciador de pacotes para JavaScript. 
 
 • Em seguida, baixe e instale o Visual Studio Code em seu sistema. 
 
-• Depois de instalar o VS Code, você pode instalar extensões úteis para desenvolvimento web, como "ESLint" para verificação de código JavaScript, "Prettier" para formatação de código e "Live Server" para servir páginas web localmente. 
+• Depois de instalar o VS Code, você pode instalar extensões úteis para desenvolvimento web, como "ESLint" 
+para verificação de código JavaScript, "Prettier" para formatação de código e "Live Server" para servir 
+páginas web localmente. 
 
-• Você pode instalar essas extensões diretamente do VS Code, acessando o menu de extensões (Ctrl+Shift+X) e pesquisando pelos nomes das extensões.
+• Você pode instalar essas extensões diretamente do VS Code, acessando o menu de extensões (Ctrl+Shift+X) 
+e pesquisando pelos nomes das extensões.
 ```
 ## 🛠️ Ferramentas utilizadas
 
